@@ -1,0 +1,5 @@
+rag_env/
+data/
+.env
+src/__pycache__
+faiss_store
